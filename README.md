@@ -1,5 +1,7 @@
 # Drone Altitude Control Using PID
 
+<img src= https://github.com/daniel-odulate22/aep-aerial-robotics-class-4/blob/main/pid-altitude-plot.png >
+
 ## Overview
 
 This project demonstrates a Proportional-Integral-Derivative (PID) control loop using a simple Python simulation. The aim is to simulate how a drone can adjust its altitude to reach and maintain a target height.
